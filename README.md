@@ -1,8 +1,9 @@
-## Discord_Music_Bot
+# Discord_Music_Bot
 Goal: Create a Discord Bot to join calls to play music to others
 
-## Main Code
-# Music Bot Commands
+# Code given
+## Main 
+### Music Bot Commands
 - !join → Join your VC (muted by default)
 - !leave → Leave VC and clear queue
 - !playlist → Show approved playlist
