@@ -22,3 +22,5 @@ Goal: Create a Discord Bot to join calls to play music to others
 
   ## Playlist Code
   Edit the code to add songs to playlist command
+
+# Blame Chat if no work
